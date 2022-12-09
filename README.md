@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheldon
+- 👋 Hi!
 - 👀 I’m interested in English,AI
 - 🌱 I’m currently learning [C++]() & [DL]()
 - 📫 How to reach me 
